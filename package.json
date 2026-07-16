@@ -1,0 +1,12 @@
+{
+  "name": "genova-global",
+  "version": "1.0.0",
+  "description": "Genova Global — pharmaceutical market access for Iraq. Static landing page.",
+  "private": true,
+  "scripts": {
+    "start": "serve -s . -l ${PORT:-3000}"
+  },
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
